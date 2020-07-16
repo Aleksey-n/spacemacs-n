@@ -10,4 +10,4 @@
 
 ### Find Text (Найти что-то в тексте).
 
-Find text in buffer **/** (type search text, press **ENTER**, followed by **n** or **N** (***next/previous***))
+Find text in buffer Press **/** (type search text, press **ENTER**, followed by **n** or **N** (***next/previous***))
