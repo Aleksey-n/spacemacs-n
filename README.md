@@ -30,3 +30,11 @@ Find text in buffer Press **/** (type search text, press **ENTER**, followed by 
 
 **emacs**
 
+**How-To Create Table in Spacemacs Org-mode:**
+
+![How-To Create Table in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs/blob/master/Spacemacs%20Creating%20Table.gif "How-To Create Table in Spacemacs Org-mode")
+
+
+;; **SPC-SPC ***org-mod***** — switch to org-mode
+
+;; **,-t-n ***{size}*****    — org-table-create
