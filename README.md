@@ -39,3 +39,14 @@ Find text in buffer Press **/** (type search text, press **ENTER**, followed by 
 ;; **SPC-SPC ***org-mod***** — switch to org-mode
 
 ;; **,-t-n ***{size}*****    — org-table-create
+
+## How-To Show ToDo List in Spacemacs Org-mode: 
+
+![How-To show ToDo List in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs/blob/master/img/Spacemacs%20org-show-todo-tree.gif "How-To show ToDo List in Spacemacs Org-mode")
+
+;; **SPC-m-T-t**  — org-show-todo-tree
+
+
+## Links
+
+**https://www.spacemacs.org/layers/+emacs/org/README.html**
