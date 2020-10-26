@@ -33,7 +33,7 @@ Find text in buffer Press **/** (type search text, press **ENTER**, followed by 
 
 ## How-To Create Table in Spacemacs Org-mode: 
 
-![How-To Create Table in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs/blob/master/Spacemacs%20Creating%20Table.gif "How-To Create Table in Spacemacs Org-mode")
+![How-To Create Table in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs-n/blob/master/Spacemacs%20Creating%20Table.gif "How-To Create Table in Spacemacs Org-mode")
 
 
 ;; **SPC-SPC ***org-mod***** — switch to org-mode
@@ -42,7 +42,7 @@ Find text in buffer Press **/** (type search text, press **ENTER**, followed by 
 
 ## How-To Show ToDo List in Spacemacs Org-mode: 
 
-![How-To show ToDo List in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs/blob/master/img/Spacemacs%20org-show-todo-tree.gif "How-To show ToDo List in Spacemacs Org-mode")
+![How-To show ToDo List in Spacemacs Org-mode](https://github.com/Aleksey-n/spacemacs-n/blob/master/img/Spacemacs%20org-show-todo-tree.gif "How-To show ToDo List in Spacemacs Org-mode")
 
 ;; **SPC-m-T-t**  — org-show-todo-tree
 
